@@ -1,5 +1,9 @@
 # Autonomous_Vehicle
 
+## Project Video
+
+https://drive.google.com/file/d/16VqdXCQg_ykUg4LMIUFqX3eGgADjnJ4y/view?usp=drive_link  
+
 ## Intro & Motivation
 
 The project goal is to improve the control system of the GEM vehicle so that it would be able to complete a full lap in the highbay facility while preserving safety.
