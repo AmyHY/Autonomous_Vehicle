@@ -1,8 +1,8 @@
 # Autonomous_Vehicle
 
-## Project Video
+#### [Project Video](https://drive.google.com/file/d/16VqdXCQg_ykUg4LMIUFqX3eGgADjnJ4y/view?usp=drive_link)
 
-https://drive.google.com/file/d/16VqdXCQg_ykUg4LMIUFqX3eGgADjnJ4y/view?usp=drive_link  
+#### [Presentation Slides](https://docs.google.com/presentation/d/124aAc4pNV_MhHlzvXFsz7T2wNJRNb1p8YjODVC7ccMo/edit?usp=sharing)
 
 ## Intro & Motivation
 
